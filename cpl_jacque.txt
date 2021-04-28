@@ -1,0 +1,10 @@
+Jacque-Weigthifters
+Jacque-Shotputters
+Jacque-Athletes
+Weigthifters-Athletes
+Weigthifters-Endomorphs
+Shotputters-Athletes
+Shotputters-Endomorphs
+Athletes-Dwarfs
+Endomorphs-Dwarfs
+Dwarfs-Everything
